@@ -5,3 +5,4 @@
 ['remote "origin"']
     url = s3://dvc
     endpointurl = https://dagshub.com/jrbargin/Template_MLOps_accidents.s3
+accidents/Template_MLOps_accidents/.dvc/config
